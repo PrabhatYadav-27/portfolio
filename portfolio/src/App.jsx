@@ -1,10 +1,12 @@
 import React from 'react'
+import NavBar from './Components/NavBar'
 
 function App() {
   return (
-   <>
-    <div>Portfolio</div>
-   </>
+    <>
+      <NavBar/>
+      <dv>Portfolio</dv>
+    </>
   )
 }
 
