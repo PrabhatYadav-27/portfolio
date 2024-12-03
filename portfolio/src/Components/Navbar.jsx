@@ -35,7 +35,7 @@ function NavBar() {
         <div className='flex justify-between items-center h-16'>
             <div className='flex space-x-2'>
                 <img src={pic} className='h-12 w-12 rounded-full' alt="" />
-                <h1 className='font-semibold text-xl cursor-pointer'>Prabha <span className='text-red-500  text-2xl'>t</span>
+                <h1 className='font-semibold text-xl cursor-pointer'>Prabha <span className='text-red-600  text-2xl'>t</span>
                 <p className='text-sm'>Software Developer</p>
                 </h1>
             </div>
